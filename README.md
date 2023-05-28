@@ -155,7 +155,7 @@ This is the pipeline created in the *Pipelines* section of Azure ML Studio
 
 
 
-![c73b42c8-6284-471a-b4be-ea66cb4c8e41](file:///C:/Users/tranqt07/Project/04_Training/05_Udacity/code/2/3/Operationalizing-Machine-Learning-2023/image/c73b42c8-6284-471a-b4be-ea66cb4c8e41.png)
+![c73b42c8-6284-471a-b4be-ea66cb4c8e41](./image/c73b42c8-6284-471a-b4be-ea66cb4c8e41.png)
 
 
 ## Screen Recording

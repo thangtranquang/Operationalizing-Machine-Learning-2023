@@ -23,7 +23,7 @@ In this project, you will continue to work with the [Bank Marketing dataset](ht
 
 
 
-![515a0e29-e926-42ef-865a-d8666c3b8118](file:///C:/Users/tranqt07/Pictures/Typedown/515a0e29-e926-42ef-865a-d8666c3b8118.png)
+![loading-ag-316](./image/515a0e29-e926-42ef-865a-d8666c3b8118.png)
 
 
 

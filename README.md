@@ -33,7 +33,7 @@ In this project, you will continue to work with the [Bank Marketing dataset](ht
 
 az login
 
-![c45286b7-a1e5-4eb1-bbae-da53a5b931e5](file:///C:/Users/tranqt07/Project/04_Training/05_Udacity/code/2/3/Operationalizing-Machine-Learning-2023/image/c45286b7-a1e5-4eb1-bbae-da53a5b931e5.png)
+![c45286b7-a1e5-4eb1-bbae-da53a5b931e5](./image/c45286b7-a1e5-4eb1-bbae-da53a5b931e5.png)
 
 ### Automated ML Experiment
 
